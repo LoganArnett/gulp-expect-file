@@ -1,15 +1,10 @@
-# gulp-expect-file [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
-> Expectation on generated files for gulp 3
+# gulp-expect-file [![Dependency Status][daviddm-image]][daviddm-url]
 
 This plugin is intended for testing other gulp plugin.
 
 ## Usage
 
 First, install `gulp-expect-file` as a development dependency:
-
-```shell
-npm install --save-dev gulp-file-expect
-```
 
 Then, add it to your `gulpfile.js`:
 
