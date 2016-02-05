@@ -2,9 +2,9 @@
   "name": "gulp-file-expect",
   "version": "0.0.1",
   "author": "Logan Arnett <logan@loganarn5@gmail.com>",
-  "description": "Expect files in pipes for gulp.js",
+  "description": "Expect files in pipes for gulp based on Kotas gulp-expect-file",
   "license": "MIT",
-  "homepage": "https://github.com/kotas/gulp-expect-file/",
+  "homepage": "https://github.com/loganarnett/gulp-expect-file/",
   "bugs": "https:////github.com/LoganArnett/gulp-expect-file/issues",
   "repository": {
     "type": "git",
@@ -17,7 +17,9 @@
   "keywords": [
     "gulpplugin",
     "test",
-    "expect"
+    "expect",
+    "file",
+    "check"
   ],
   "dependencies": {
     "async": "^1.5.2",
