@@ -1,15 +1,14 @@
 {
-  "name": "gulp-expect-file",
-  "version": "0.0.7",
-  "author": "Kota Saito <kotas.nico@gmail.com>",
-  "copyright": "2014 Kota Saito",
+  "name": "gulp-file-expect",
+  "version": "0.0.1",
+  "author": "Logan Arnett <logan@loganarn5@gmail.com>",
   "description": "Expect files in pipes for gulp.js",
   "license": "MIT",
   "homepage": "https://github.com/kotas/gulp-expect-file/",
-  "bugs": "https://github.com/kotas/gulp-expect-file/issues",
+  "bugs": "https:////github.com/LoganArnett/gulp-expect-file/issues",
   "repository": {
     "type": "git",
-    "url": "git://github.com/kotas/gulp-expect-file.git"
+    "url": "git://github.com/LoganArnett/gulp-expect-file.git"
   },
   "main": "index.js",
   "scripts": {
@@ -21,11 +20,11 @@
     "expect"
   ],
   "dependencies": {
-    "through2": "^1.0.0",
-    "gulp-util": "^2.2.16",
-    "async": "^0.9.0",
-    "minimatch": "^0.3.0",
-    "xtend": "^3.0.0"
+    "async": "^1.5.2",
+    "gulp-util": "^3.0.7",
+    "minimatch": "^3.0.0",
+    "through2": "^2.0.0",
+    "xtend": "^4.0.1"
   },
   "devDependencies": {
     "mocha": "^1.20.1",
